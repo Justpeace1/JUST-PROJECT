@@ -1,0 +1,59 @@
+* {
+    border-radius: 24px;
+}
+
+body {
+    background-color: white;
+    color: blue;
+    line-height: 1.5;
+    
+    
+}
+
+.img img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    align-items: left;
+}
+
+.name {
+    line-height: 0.5;
+    text-align: left;
+}
+
+.email {
+    text-align: left;
+    line-height: 0.5;
+
+}
+
+.about {
+    font-size: 20px;
+    font-family: sans-serif;
+    line-height: 0.1;
+
+}
+
+.profile {
+    max-width: 70%;
+
+}
+
+.wrapper {
+    width: 30%;
+    background-color: #114ffa;
+    color: white;
+    padding: 2%;
+    margin: 0 auto;
+
+}
+
+.button a {
+    background-color: white;
+    padding: 10px 30px;
+    text-decoration: none;
+    font-size: 24px;
+    color: #114ffa;
+}
+
